@@ -1,0 +1,13 @@
+<shops>
+    <Type>
+        <No>1</No>
+        <NAME> riyaz</NAME>
+        <Street>620</Street>
+        <City>Bangalore</City>
+    </Type>
+</shops>
+
+<person>
+    <id>1</id>
+    <name>Scott</name>
+</person>
